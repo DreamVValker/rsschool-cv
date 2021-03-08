@@ -28,3 +28,7 @@ Skills
   - Deutch - _B1_
   - Polish - _A2_
 ---
+
+Examples of projects
+---
+ 
